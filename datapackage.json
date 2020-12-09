@@ -1,0 +1,10 @@
+{
+	"name":"education-open-data-challenge",
+	"title":"Education open data challenge - complimentary datasets",
+	"description":"This repository contains a list of links to datasets from trustworthy international organisations, sourced by the ODI to help participants in the ODI/Microsoft Education Open Data Challenge.",
+	"licenses":[{
+		"url":"https://creativecommons.org/publicdomain/zero/1.0/",
+		"title":"Creative Commons Zero 1.0 (Universal)"}
+	],
+	"publishers":[{"name":null,"web":null}],
+	"resources":[{"name":"datasets","mediatype":"text/csv","description":"A list of datasets to compliment the Microsoft / Open Data Institute Education Open Data Challenge","path":"data/datasets.csv"}]}
